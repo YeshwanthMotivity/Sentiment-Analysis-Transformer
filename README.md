@@ -32,9 +32,9 @@ Key Dependencies
 ![req](https://github.com/user-attachments/assets/ad42abe0-223c-409d-9aca-22fc69947c8e)
 
 
-📸 Sample Architecture Diagram
-You can insert your diagram image using the format below.
-![Architecture](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/architecture.png)
+📸 Architecture Diagram
+![img6](https://github.com/user-attachments/assets/c3c63fb7-b0ce-4ad0-9894-3274488586df)
+
 
 💻 How to Run
 Clone the repository:
