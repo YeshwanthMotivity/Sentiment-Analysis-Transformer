@@ -41,9 +41,6 @@ Clone the repository:
 git clone https://github.com/YeshwanthMotivity/Sentiment-Analysis-Transformer.git
 cd Sentiment-Analysis-Transformer
 
-Install dependencies:
-pip install -r requirements.txt
-
 Run the notebook:
 Open Sentiment.ipynb in Jupyter Notebook.
 Execute the cells step by step for training and predictions.
