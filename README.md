@@ -54,6 +54,17 @@ Execute the cells step by step for training and predictions.
 3. **Live Data Input**: Integrate the model with web forms or chatbots to analyze sentiment from live user inputs.
 
 ---
+
+## 🙋‍♂️ Author
+
+• Mentor / Manager: Mr. Venkata Ramana Sudhakar Polavarapu
+
+• Mudimala Yeshwanth Goud
+
+ 🛠️ Passionate about AI/ML, NLP, RAG, Data Science, system programming, full-stack development, and intelligent assistant systems.
+
+---
+
 ## 📬 Contact
 For questions, reach out at:
 
