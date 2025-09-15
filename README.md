@@ -31,7 +31,7 @@ Sentiment-Analysis-Transformer is a machine learning project designed to perform
 
 ---
 ## 🗂 Requirements
-Key Dependencies
+**Key Dependencies**
 ![req](https://github.com/user-attachments/assets/ad42abe0-223c-409d-9aca-22fc69947c8e)
 
 ## 💻 How to Run
